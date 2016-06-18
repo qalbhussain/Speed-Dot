@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
+//This Script control the background
 public class Background : MonoBehaviour {
 
     public Text text;
